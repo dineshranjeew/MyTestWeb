@@ -1,0 +1,7 @@
+C:\Users\dines\source\repos\MyTestWeb\MyTestWebApplication\MyTestWebApplication\obj\Release\net6.0\PubTmp\Out\MyTestWebApplication.exe
+C:\Users\dines\source\repos\MyTestWeb\MyTestWebApplication\MyTestWebApplication\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\dines\source\repos\MyTestWeb\MyTestWebApplication\MyTestWebApplication\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\dines\source\repos\MyTestWeb\MyTestWebApplication\MyTestWebApplication\obj\Release\net6.0\PubTmp\Out\MyTestWebApplication.dll
+C:\Users\dines\source\repos\MyTestWeb\MyTestWebApplication\MyTestWebApplication\obj\Release\net6.0\PubTmp\Out\MyTestWebApplication.deps.json
+C:\Users\dines\source\repos\MyTestWeb\MyTestWebApplication\MyTestWebApplication\obj\Release\net6.0\PubTmp\Out\MyTestWebApplication.runtimeconfig.json
+C:\Users\dines\source\repos\MyTestWeb\MyTestWebApplication\MyTestWebApplication\obj\Release\net6.0\PubTmp\Out\MyTestWebApplication.pdb
